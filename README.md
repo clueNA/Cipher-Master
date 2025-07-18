@@ -7,6 +7,9 @@ A comprehensive cryptography application built with Streamlit that implements 14
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Last Updated](https://img.shields.io/badge/last%20updated-July%202025-brightgreen.svg)
 
+## 🌐 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cipher-master.streamlit.app/)
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
