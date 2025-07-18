@@ -1,3 +1,5 @@
+![Cipher-Master](https://socialify.git.ci/clueNA/Cipher-Master/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Transparent&stargazers=1&theme=Dark)
+
 # 🔐 Cipher Master
 
 A comprehensive cryptography application built with Streamlit that implements 14 different ciphers and encoding methods, featuring interactive audio generation, timing visualizations, and detailed educational content.
